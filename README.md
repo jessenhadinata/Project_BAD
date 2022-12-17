@@ -43,5 +43,3 @@ git add .
 git commit -m "Comment"
 git push
 ```
-
-_Jika masih bermasalah bisa menghubungi Farhan/teman sekelompok_
