@@ -12,13 +12,13 @@
    **Git Clone**
 
    ```
-   git clone https://github.com/FebricoJonata/Final-Project-FAVExRnD.git
+   git clone https://github.com/jessenhadinata/Project_BAD.git
    ```
 
 **Git Remote**
 
    ```
-   git remote add origin https://github.com/FebricoJonata/Final-Project-FAVExRnD.git
+   git remote add origin https://github.com/jessenhadinata/Project_BAD.git
    git branch -M main
    git push -u origin main
    ```
