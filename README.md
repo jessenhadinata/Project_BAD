@@ -15,9 +15,7 @@
    git clone https://github.com/FebricoJonata/Final-Project-FAVExRnD.git
    ```
 
-   _Jika memiliki error saat clone bisa menghubungi Farhan/teman kelompok atau_ [mengakses link berikut](https://docs.github.com/en/repositories/creating-and-managing-repositories/troubleshooting-cloning-errors)
-
-   **Git Remote**
+**Git Remote**
 
    ```
    git remote add origin https://github.com/FebricoJonata/Final-Project-FAVExRnD.git
@@ -26,8 +24,7 @@
    ```
 
    _Note tolong jangan mengubah/menambahkan branch tanpa pemberitahuan_
-   _Jika memiliki error saat remote git bisa menghubungi Farhan/teman kelompok atau_ [mengakses link berikut](https://docs.github.com/en/get-started/getting-started-with-git/managing-remote-repositories)
-
+   
 ... 2. Jika ingin Commit sertai dengan comment apa yang dikomit dan usahankan jelas. EX : "Menambahkan Navbar"
 
 **Silahkan lakukan perintah berikut**
